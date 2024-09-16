@@ -22,3 +22,9 @@ MERN Stack Developer
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 <img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s"/> 
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+### Project Manager Video
+<video controls width="600">
+  <source src="https://static.vecteezy.com/system/resources/previews/022/925/564/mp4/project-manager-working-with-gantt-chart-schedule-to-plan-tasks-and-deliverables-scheduling-activities-with-a-planning-software-corporate-strategy-for-finance-operations-sales-marketing-free-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
